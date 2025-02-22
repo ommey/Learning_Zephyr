@@ -15,7 +15,7 @@ int main()
 
 
   while (1){
-    printf("Hello, World!! from: ");
+    printf("Hello, World!!! from: ");
     printf(CONFIG_BOARD);
     printf("\n");
 
